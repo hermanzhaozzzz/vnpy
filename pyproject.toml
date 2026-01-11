@@ -59,6 +59,7 @@ dependencies = [
     "tushare>=1.2.89",
     "vnpy-tushare>=1.4.21.0",
     "vnpy-portfoliostrategy (>=1.2.2,<2.0.0)",
+    "fire (>=0.7.1,<0.8.0)",
 ]
 keywords = ["quant", "quantitative", "investment", "trading", "algotrading"]
 
